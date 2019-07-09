@@ -1,5 +1,5 @@
 # Lambda School Web API: Java Course 
-## Software installations for Week 1 
+## Software installations for Annex (optional) Work
 
 <details><summary>For All Operating Systems</summary>
 <p>
